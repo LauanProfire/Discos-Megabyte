@@ -1,2 +1,4 @@
 # Disco's Megabyte
-Minha primeira tentativa de criar um jogo no Construct 2 
+Minha primeira tentativa de criar um jogo no Construct 2
+
+Atualmente Em Hiato Indefinido 
